@@ -1,0 +1,44 @@
+body{
+	background-color: red;
+}
+#wrapper{
+	width: 90%;
+	background-color: #fff;
+	height: auto;
+	margin: 0px auto;
+}
+
+.container{
+  clear:both;
+  overflow:auto;
+}
+
+.login{
+	float: right;
+}
+.login ul li a{
+	font-size: medium;
+	color: #000;
+}
+.nav{
+	float:left;
+	padding-top: 30px;
+	padding-left: 30px;
+}
+
+.logo img{
+	float:left;
+	padding-left: 5px;
+	padding-top: 5px;
+}
+ul li{
+  display: inline-block; 
+  padding:10px;
+  font-size:20px; 
+  font-family:raleway;
+}
+
+ul li a:hover{
+  color:orange;
+  cursor: pointer;
+}
